@@ -55,6 +55,7 @@ body {
 .mod-one button {
   margin-left: 50px;
   width: 100px;
+  background-color: #3882f6;
 }
 
 .image {
@@ -70,6 +71,8 @@ body {
 .group-a {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  width: 50%;
 }
 
 .group-b {
