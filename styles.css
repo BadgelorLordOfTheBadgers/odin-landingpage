@@ -28,5 +28,26 @@ body {
   flex: 1;
   margin-right: 50px;
   font-size: 18px;
+  color: #e5e7eb;
+}
+
+.mod-one {
+  display: flex;
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
+
+.mod-one .title {
+  font-size: 24px;
   color: #f9faf8;
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+.mod-one .text {
+  margin-left: 50px;
+}
+
+.mod-one button {
+  margin-left: 50px;
 }
