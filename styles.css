@@ -7,19 +7,26 @@ body {
 .header {
   display: flex;
   flex: 1;
-  background-color: blue;
+  background-color: #1f2937;
 }
 
 .left {
   display: flex;
   align-items: center;
+  margin-left: 50px;
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
 }
 
 .right {
   display: flex;
   justify-content: flex-end;
-  gap: 8px;
+  gap: 16px;
   list-style-type: none;
   align-items: flex-start;
   flex: 1;
+  margin-right: 50px;
+  font-size: 18px;
+  color: #f9faf8;
 }
