@@ -95,10 +95,19 @@ body {
 
 .info-con {
   display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 52px;
 }
 
 .box {
   width: 100px;
   height: 100px;
   background-color: green;
+  flex: auto;
+  margin: auto;
+}
+
+.info {
+  max-width: 200px;
 }
