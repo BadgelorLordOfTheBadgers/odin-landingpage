@@ -81,3 +81,13 @@ body {
   display: flex;
   flex: 1;
 }
+
+.mod-two{
+  display: flex;
+  flex-direction: column;
+}
+
+.info{
+  display: flex;
+
+}
