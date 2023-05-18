@@ -118,6 +118,7 @@ body {
   justify-content: center;
   margin-left: 300px;
   margin-right: 300px;
+  background-color: #e5e7eb;
 }
 
 .quote {
@@ -140,6 +141,8 @@ body {
 
 .group-d {
   flex: auto;
+  background-color: #3882f6;
+
 }
 
 .group-e {
