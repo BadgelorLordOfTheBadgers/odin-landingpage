@@ -148,3 +148,7 @@ body {
   align-items: center;
   flex: auto;
 }
+
+.footer {
+  background-color: blue;
+  text-align: center;
