@@ -115,6 +115,7 @@ body {
 .mod-three {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   margin-left: 300px;
   margin-right: 300px;
 }
@@ -129,10 +130,21 @@ body {
 }
 
 .mod-four {
+  display: flex;
+  justify-content: center;
+  max-width: 700px;
+  flex: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .group-d {
+  flex: auto;
 }
 
 .group-e {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: auto;
 }
