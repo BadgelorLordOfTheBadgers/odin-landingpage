@@ -113,10 +113,17 @@ body {
 }
 
 .mod-three {
+  display: flex;
+  flex-direction: column;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 .quote {
+  text-align: center;
 }
 
 .auth {
+  display: flex;
+  justify-content: end;
 }
