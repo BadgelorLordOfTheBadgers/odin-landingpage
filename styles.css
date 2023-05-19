@@ -58,6 +58,12 @@ body {
   background-color: #3882f6;
 }
 
+button{
+  border-radius: 5px;
+  height: 32px;
+  width: 100px;
+}
+
 .image {
   display: flex;
   height: 175px;
@@ -105,8 +111,8 @@ body {
 }
 
 .box {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   flex: auto;
   margin: auto;
   border-color: #3882f6;
