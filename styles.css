@@ -85,12 +85,16 @@ body {
 .mod-two {
   display: flex;
   flex-direction: column;
+  padding-bottom: 50px;
 }
 
 .group-c {
   display: flex;
   justify-content: center;
-  gap: 52px;
+  font-size: 32px;
+  font-weight: bolder;
+  color: #1f2937;
+  padding: 25px;
 }
 
 .info-con {
@@ -116,18 +120,22 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: 300px;
-  margin-right: 300px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-color: #e5e7eb;
 }
 
 .quote {
   text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 .auth {
   display: flex;
   justify-content: end;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 .mod-four {
@@ -137,12 +145,15 @@ body {
   flex: auto;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #3882f6;
+
 }
 
 .group-d {
   flex: auto;
-  background-color: #3882f6;
-
+  
 }
 
 .group-e {
