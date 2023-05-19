@@ -107,9 +107,12 @@ body {
 .box {
   width: 100px;
   height: 100px;
-  background-color: green;
   flex: auto;
   margin: auto;
+  border-color: #3882f6;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 10px;
 }
 
 .info {
